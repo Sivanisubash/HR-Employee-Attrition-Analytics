@@ -38,10 +38,11 @@ This project analyzes employee attrition using HR data and presents insights thr
 
 ## 📁 Project Files
 
-- Power BI Dashboard (.pbix)
-- HR Dataset (.csv)
+- 📊 Power BI Dashboard (.pbix)
+- 📁 HR Dataset (.xlsx/.csv)
+- 🐍 Python Machine Learning Notebook (.ipynb)
 - Dashboard Screenshots
-- Demo Video (if available)
+- Demo Video 
 
 ## 👩‍💻 Author
 
