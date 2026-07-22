@@ -1,2 +1,52 @@
-# HR-Employee-Attrition-Analytics
-Interactive HR Employee Attrition Analytics Dashboard built using Power BI, Power Query, DAX, and Machine Learning.
+# HR Employee Attrition Analytics Dashboard
+
+## 📌 Project Overview
+
+This project analyzes employee attrition using HR data and presents insights through an interactive Power BI dashboard. The project combines Power BI, Power Query, DAX, and Machine Learning to help identify the key factors influencing employee turnover.
+
+## 🛠 Tools Used
+
+- Power BI
+- Power Query
+- DAX
+- Python
+- Machine Learning
+
+## 📊 Dashboard Pages
+
+### Executive Overview
+- Employee KPIs
+- Attrition Rate
+- Department-wise Attrition
+- Interactive Filters
+
+### Attrition Drivers
+- Key Influencers
+- Decomposition Tree
+
+### ML Insights
+- Feature Importance
+- Model Performance
+- Business Insights
+
+## 🤖 Machine Learning Results
+
+- Accuracy: **98.60%**
+- Precision: **99.00%**
+- Recall: **92.00%**
+- F1 Score: **96.00%**
+
+## 📷 Dashboard Screenshots
+
+Screenshots are available in the **Images** folder.
+
+## 🎥 Demo
+
+A dashboard demonstration video is available in the **Demo** folder (or on LinkedIn if the video is too large for GitHub).
+
+## 👩‍💻 Author
+
+**Sivani O S**
+
+- LinkedIn: *(Add your LinkedIn profile URL)*
+- GitHub: *(Add your GitHub profile URL)*
