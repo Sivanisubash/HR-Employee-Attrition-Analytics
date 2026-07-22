@@ -36,13 +36,12 @@ This project analyzes employee attrition using HR data and presents insights thr
 - Recall: **92.00%**
 - F1 Score: **96.00%**
 
-## 📷 Dashboard Screenshots
+## 📁 Project Files
 
-Screenshots are available in the **Images** folder.
-
-## 🎥 Demo
-
-A dashboard demonstration video is available in the **Demo** folder (or on LinkedIn if the video is too large for GitHub).
+- Power BI Dashboard (.pbix)
+- HR Dataset (.csv)
+- Dashboard Screenshots
+- Demo Video (if available)
 
 ## 👩‍💻 Author
 
