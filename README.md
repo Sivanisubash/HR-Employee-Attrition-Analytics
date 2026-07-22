@@ -48,5 +48,4 @@ This project analyzes employee attrition using HR data and presents insights thr
 
 **Sivani O S**
 
-- LinkedIn: *(Add your LinkedIn profile URL)*
-- GitHub: *(Add your GitHub profile URL)*
+- LinkedIn: www.linkedin.com/in/sivani-os-
